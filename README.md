@@ -39,3 +39,8 @@ Hello World
 webserver saying :How are you localhost?
 
 ```
+
+You can use perl chat client ```chatclient.pl``` to avoid telnet session. Start ```chat-server.pl``` and hit below script in new terminal.
+```
+perl chatclient.pl
+```
